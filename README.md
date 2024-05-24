@@ -1,4 +1,4 @@
-**Live Preview:** [AnimeVault](https://anime-vault-orpin.vercel.app/)
+**Live Preview:** [AnimeVault](https://anime-vault-orpin.vercel.app)
 
 ## <a name="introduction">🤖 Introduction</a>
 
